@@ -21,13 +21,16 @@ Beginner Data Scientist
 
 * NUST MISiS (*Since 2021*)
 * Deep Learning School (*2022-2023*)
-* Docker karpov.courses (*2023-2023*)
-* Tinkoff Generation DL Advanced (*Since 2023*)
+* Docker, SQL karpov.courses (*2023*)
+* Tinkoff Generation DL Advanced (*2023*)
 
 ### 🏆 Competitions
 
-* AIJ Contest 14/90
-* Masters of Arts: ML Challenge 6/52
+* Nuclear IT hack (VK Group case) - 1st place, 2023
+* Text Generation Detection: GPT or Human - 3/26, 2023
+* AIJ Contest - 14/90, 2022
+* Masters of Arts: ML Challenge - 6/52, 2023
+* Цифровой прорыв (VK Group case), Rucode6.5, MarkingHack - participant, 2022-2023
 
 <h3> 🤝🏻 Connect with Me </h3>
 
