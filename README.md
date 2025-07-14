@@ -1,4 +1,4 @@
-### Hey 👋, I'm Yaroslav
+### Hey 👋, I'm Yaroslav Romanenko
 
 <h3> 🤝🏻 Connect with Me </h3>
 
